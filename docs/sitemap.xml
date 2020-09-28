@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/first-post/</loc>
-    <lastmod>2020-09-28T20:26:21+08:00</lastmod>
+    <loc>https://undom.github.io/posts/</loc>
+    <lastmod>2020-09-28T20:44:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87/</loc>
-    <lastmod>2020-09-28T20:26:21+08:00</lastmod>
+    <loc>https://undom.github.io/posts/second-post/</loc>
+    <lastmod>2020-09-28T20:44:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-09-28T20:26:21+08:00</lastmod>
+    <loc>https://undom.github.io/</loc>
+    <lastmod>2020-09-28T20:44:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-09-28T20:26:21+08:00</lastmod>
+    <loc>https://undom.github.io/posts/first-post/</loc>
+    <lastmod>2020-09-28T20:44:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://undom.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://undom.github.io/tags/</loc>
   </url>
   
 </urlset>

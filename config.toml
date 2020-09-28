@@ -1,0 +1,5 @@
+baseURL = "https://undom.github.io/"
+languageCode = "en-ch"
+title = "undom"
+theme = "ananke"
+publishDir = "docs"
