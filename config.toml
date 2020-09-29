@@ -93,17 +93,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "undom"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "920432478@gmail.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "Hi there."
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
     website = "https://io-oi.me/"
     # 推特
-    twitter = "reuixiy"
+    # twitter = "reuixiy"
 
 # 相关文章
 [related]
@@ -295,11 +295,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = ["that's index", "hahah"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -581,13 +581,13 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     # 是否开启（全局设置）
-    enableComments = false
+    enableComments = true
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
     ## Disqus
-    enableDisqus = false
-    disqusShortname = ""
+    enableDisqus = true
+    disqusShortname = "undom"
 
     ## Valine
     enableValine = false
@@ -1185,15 +1185,15 @@ uglyURLs = false
     iconAnimation = true
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     # 是否显示站点的版权信息
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = ""
+    customFooter = "ok, that's all"
 
-    displayBusuanziSiteUVAndPV = false
+    displayBusuanziSiteUVAndPV = true
     busuanziSiteUVText = "本站访客数"
     busuanziSiteUVIcon = "user"
     busuanziSitePVText = "本站访问量"
@@ -1211,7 +1211,7 @@ uglyURLs = false
     # 多语言
 
     # 是否开启多语言按钮
-    enableLangToggle = false
+    enableLangToggle = true
 
     # 是否在首页隐藏多语言按钮
     hideLangToggleInHome = false
